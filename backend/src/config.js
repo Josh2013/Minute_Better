@@ -75,10 +75,10 @@ const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the
 const PRESALE_WHITELISTED_ADDRESSES = ["0x0C250B1584F0FEB962b39d79eC352718189bdde4","0xae134099775d5d580663833d41d430ad9CC4541C"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
-let CONTRACT_ADDRESS = "Billionare Leisure"; // If you want to manually include it
+let CONTRACT_ADDRESS = "0x60C08144842Ea09bb9476800B1fab0d9B16135E4"; // If you want to manually include it
 
 // Generic Metadata is optional if you want to reveal your NFTs
-const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
+const GENERIC = false; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
 const GENERIC_DESCRIPTION = "REPLACE THIS"; // Replace with what you want the generic descriptions to say.
 const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafybeih5ybgutkd6t2ys7y3xw7ljl7i4ikhtuamqkzqt5aq6ydwurwkvhu"; // Replace with your generic image that will display for all NFTs pre-reveal.
