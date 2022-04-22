@@ -118,8 +118,8 @@ $ npm run update_prereveal_token_uri
 - Available fields to update:
   - `prereveal_token_uri` - This will update the pre-reveal token uri for all NFTs. (Hidden image)
   - `base_uri` - This will update the base uri for all NFTs and reveal all.
-  - `public_mint_start_date` - Eg: 2022-02-08T11:30:48+00:00
-  - `presale_mint_start_date` - Eg: 2022-02-08T11:30:48+00:00
+  - `public_mint_start_date` - Eg: 2022-04-08T11:30:48+00:00
+  - `presale_mint_start_date` - Eg: 2022-04-08T11:30:48+00:00
   - `presale_whitelisted_addresses` - Adds address(es) to the whitelist
   - `presale_whitelisted_addresses_remove` - Removes address(es) from the whitelist
   - `royalties_share` - Updates the royalty share
